@@ -1,0 +1,592 @@
+
+body{
+	overflow-x:hidden;
+	background: white;
+}
+.main1{
+	width:100%;
+	height: 60px;
+	background: #FFFFFF;
+	border: 1px solid grey;
+	/*margin-left: 0px*/
+
+	}
+.ul{
+	width:100%;
+	height: 58px;
+	padding-left: 20px
+	}
+.li{
+	list-style-type: none;
+	color: black;
+	display: inline-block;
+	margin-top: 20px;
+	cursor: pointer;
+	height: 38px;
+	}
+.marginRight{
+	margin-left: 7px
+	}
+.marginLeft11{
+	margin-left: 49px
+	}
+.img{
+	width: 150px;
+
+	height: 16px;
+	margin-top: 20px;
+	padding-left:15px 
+	}
+.display{
+	display: inline-block;
+	}
+.search{
+	line-height: 60px;
+	cursor: pointer;
+	}
+.search:hover{
+	color: lightgrey;
+	}
+.login{
+	cursor: pointer;
+	height: 38px
+	}
+.login:hover{
+	border-bottom: 3px solid #2ade73;
+	}
+.parol{
+	cursor: pointer;
+	height: 38px
+	}
+.parol:hover{
+	border-bottom: 3px solid #2ade73;
+	}
+.link{
+	color: black;
+	text-decoration: none;
+	}
+.link:hover{
+	text-decoration: none;
+	color: black;
+	}
+.li:hover{
+	border-bottom: 3px solid #2ade73;
+	}
+
+/*boyuk slayd bawladi*/
+
+
+	.banner{
+		width: 100%;
+		height: 585px;
+		border:1px solid red
+	}
+
+
+/*boyuk slayd bitdi*/
+
+.fluidBottom{
+	border-bottom: 1px solid lightgrey;	
+}
+.fluidTop{
+	border-top: 1px solid lightgrey
+}
+/*balaca slayd bawladi*/
+	
+.umumi{
+	width: 100%;
+	height: 450px;
+	margin-top: 0px;
+	border-top: 1px solid grey;
+	}
+.ust{
+	width: 100%;
+	height: 95px;
+	line-height: 100px;
+	margin-top: 10px;
+	}
+.pro{
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+	display: inline-block;
+	}
+.pro:hover{
+	text-decoration: none;
+	color: black;
+}
+
+.pro1{
+	color: black;
+	font-size: 15px;
+	text-decoration: none;
+	float: right;
+	}
+	.pro1:hover{
+	text-decoration: none;
+	color: black
+	}
+.alt{
+width: 100%;
+height: 245px;
+}
+.solHisse{
+	width: 49%;
+	height: 245px;
+	display: inline-block;
+	float: left;
+	}
+.img2{
+	widows: 450px;
+	height: 245px
+}
+.sagHisse{
+	width: 49%;
+	
+	float: right;
+	display: inline-block;
+	margin-top: -15px;
+}
+/*.sag{
+	width: 100%;
+	
+	padding: 20px 0 20px 0;
+	margin-top: 10px;
+}*/
+/*
+.ul2{
+	width: 100%;
+	height: 390px;
+	border-left: 1px solid grey;
+	text-decoration: none;
+	list-style-type: none;
+	}
+	li{
+	margin-bottom: 5px
+	}
+
+
+/*Recommended for you bawladi*/
+
+.recommended{
+	width: 100%;
+	margin: 0 20px 0px 20px;
+	}
+.you{
+	width: 100%;
+	height: 120px;
+	display: inline-block;
+}
+.tee{
+	width: 50%;
+	height: 120px;
+	display: inline-block;
+}
+.text6{
+	font-size: 20px;
+	line-height: 140px;
+	color: black;
+	text-decoration: none;
+	margin-left: 15px
+}
+.text6:hover{
+	color: black;
+	text-decoration: none;
+}
+.seeAll{
+	width: 80px;
+	height: 30px;
+	border:1px solid black;
+	float: right;
+	margin: 55px 25px 0 0 ;
+	border-radius: 5px;
+	/*padding-top: 2px*/
+}
+.text7{
+	font-size: 15px;
+	padding: 5px;
+	color: black;
+	margin-left: 8px	
+}
+.text7:hover{
+	font-size: 15px;
+	padding: 5px;
+	color: black;
+	text-decoration: none
+}	
+.text4{
+	width: 300px;
+	height: 50px;
+	background: green;
+}
+.for{
+	width: 97.0%;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 50px
+}
+.image{
+	width: 100%;
+	height: 190px;
+	position: relative;
+	}	
+.serdce{
+	width: 30px;
+	height: 30px;
+	background:#586BE9;
+	position: absolute;
+	top: 150px;
+	left: 10px;
+	border: 1px solid #586BE9;
+	border-radius: 50px;
+	padding-left:7px;
+	padding-top:5px;
+	z-index: 6;	
+}
+.backGround{
+background:#586BE9 ;
+}
+.bow{
+	width: 22px;
+	height: 30px;
+	position: absolute;
+	top: 150px;
+	left: 0px;
+	/*overflow: hidden;*/
+	z-index: 10;
+	vertical-align: baseline;
+}
+
+.yahoo{
+	font-size: 25px
+}
+/*<!-- animasiya start -->*/
+.fly1, .fly2, .fly3 ,.fly4 ,.fly5,.fly6 {
+	width: 1px;
+	height: 30px;
+	background:#586BE9;
+	position: absolute;
+	top: 150px;
+	left: 7px;
+	border: 1px solid #586BE9;
+	border-radius: 50px;
+	padding-left:35px;
+	padding-top:3px;
+	overflow: hidden;
+	-webkit-transition: all 0.5s 
+	}
+.tt1{
+	color: white;
+}
+/*<!-- animasiya end -->*/
+.miniBlock{
+	width: 100%;
+	height: 130px;
+	padding: 8px;
+	}
+	.one{
+		width: 100%;
+		/*height: 50px*/
+	}
+.oneText{
+	font-size: 12px;
+    font-weight: bold;
+    height: 20px
+}
+.twoText{
+	width: 100%;
+	/*height:100px;*/
+	font-size: 12px;
+}
+.second{
+	width: 100%;
+	/*height: 70px;*/
+	padding-top: 10px;
+	}
+	.miniBlock2{
+	width: 100%;
+
+	padding:40px 8px 8px 8px;
+	}
+	.alpine{
+	width: 100%;
+	margin-bottom: 5px
+	}
+	.load{
+	width: 100%;
+	height: 10px;
+	background: lightgrey;
+	border-radius: 5px;
+	overflow: hidden;
+	margin-bottom: 10px
+	}
+	.load2{
+	width: 72%;
+	height: 8px;
+	background: #2BDE73
+	}
+.load3{
+	width: 100%;
+	height: 8px;
+	background: #2BDE73
+	}
+	.load4{
+	width: 20%;
+	height: 8px;
+	background: #2BDE73
+	}
+	.load5{
+	width: 90%;
+	height: 8px;
+	background: #2BDE73
+	}
+	.ff{
+	color: #020621;
+    font-weight: bold;
+    margin-right: 28px
+	}
+	.dd{
+	margin-right: 10px;
+	}
+	.gg{
+	color: #020621;
+    font-weight: bold;
+	margin-right: 16px;
+	}
+
+/*<!-- Discoveri section bawladi -->*/
+.discovery1{
+	width: 96.4%;
+	height: 350px;
+	border: 1px solid lightgrey;
+	margin-left: 35px;
+	box-sizing: border-box;
+	border-radius: 2px;
+	overflow: hidden;
+}
+.orta2{
+	display: inline-block;
+	background: #F8F9FD;
+	width: 100%;
+	height: 348px;
+}
+.sol8{
+	background: #F8F9FD;
+	height: 348px;
+	padding: 60px;
+}
+.fbt{
+	font-size: 45px;
+	color: black;
+	line-height:45px
+}
+.sag4{
+	width: 100%;
+}
+.learn{
+	line-height:45px;
+	font-size: 16px;
+	color:blue;
+	text-decoration: none;
+}
+.learn:hover{
+	line-height:45px;
+	font-size: 16px;
+	color:black;
+	text-decoration: none;
+}
+.btn{
+	margin: 100px 0 0 54px;
+	width: 260px;
+	height: 55px;
+	background-color: #3b5998;
+    color: #FFFFFF;
+    border-radius: 8px
+}
+.btn:hover{
+	margin: 100px 0 0 54px;
+	width: 260px;
+	height: 55px;
+	background-color: #30487b;
+    color: #FFFFFF;
+    border-radius: 8px;
+    -webkit-transition: all .2s 
+    }
+.connect{
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.connect:hover{
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.text12{
+	width: 260px;
+	height: 55px;
+	margin: 10px 0 0 54px;
+}
+.divs{
+	width: 140px;
+	height: 140px;
+	border: 1px solid lightgrey;
+	display: inline-block;
+}
+.marginLeft{
+	    margin-left: 48px;
+}
+.marginLeft1{
+	margin-left:7px
+}
+
+.seeAll1{
+	width: 80px;
+	height: 30px;
+	border:1px solid black;
+	float: right;
+
+	margin: 55px 58px 0 0 ;
+	border-radius: 5px;
+	padding-top: 2px;
+
+}
+.img1{
+	width: 100%
+}
+.text16{
+	height: 30px;
+	font-size: 15px;
+	/*padding: 5px;*/
+	color: black;
+	/*margin-left: 20px*/
+	}
+.text16:hover{
+	font-size: 15px;
+	padding: 5px;
+	color: black;
+	text-decoration: none
+}	
+.miniBlock3{
+		width: 100%;
+		height: 100%;
+		/*padding:40px 8px 8px 8px;*/
+		margin-bottom: 80px
+}
+.umumi4{
+	width: 100%;
+    background: #F8F9FD;
+}
+.where{
+	width: 100%;
+	height: 130px;
+	 background: #F8F9FD;
+	line-height: 170px
+}
+.where > span{
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 50px	
+}
+.where2{
+	width: 100%;
+	height: 150px;
+	 background: #F8F9FD;	
+}
+.btn10{
+	width: 150px;
+	height: 50px;
+	background: #25CB68;
+	border: 1px solid #25CB68;
+	border-radius: 7px;
+	color: white;
+	font-weight: bold;
+	margin-top: 20px
+}
+.btn10:hover{
+    background-color: #05AF3C;
+
+
+}
+
+
+/*<!-- Discoveri section bitdi -->*/
+
+
+
+
+
+
+
+/*<!--Footer qara hisse bawladi -->*/
+
+.back{
+background: #020621
+}
+.font{
+	color:  #020621;
+	margin-bottom: 10px
+}
+.umumi8{
+	width: 100%;	
+	background: #020621;
+	padding-top: 50px;				
+}
+.aboutt{
+	width: 100%;
+	color: white;
+	font-weight: bold;
+	background: #020621;
+	margin-bottom: 10px;
+}
+li{
+	list-style-type: none
+}
+.ul90{
+	padding:0px;
+	margin-bottom: 40px
+}
+.reng{
+	color:white;
+	text-decoration: none;
+}
+.reng:hover{
+	color: #021762;
+	text-decoration: none
+}
+
+.umumi9{
+	width: 100%;
+	background: #020621;
+	margin-bottom: 60px;
+	padding: 30px 0 30px 0;
+	border-top: 1px solid #052440;
+	}
+.year{
+	font-size: 18px;
+	color: grey
+	}
+.iconn{
+	display: inline-block;
+	}
+.iconn a{
+	display: inline-block;
+	letter-spacing: 15px;
+	color: white;
+	line-height: 40px;
+	}
+.english{
+	border-color: #80809E;
+    float: right;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #dad7d4;
+    display: inline-block;
+    padding: 10px 40px 10px 10px;
+    height: 40px;
+    line-height: 20px;
+    color: white
+    }

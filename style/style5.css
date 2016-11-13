@@ -1,0 +1,271 @@
+html body{
+margin: 0;
+padding: 0;
+}
+#banner{
+// width: 100%;
+// height: 100%;
+ 
+text-align: center;
+color: black;
+transition:ease all 0.5s;
+background-position: center;
+min-height: 620px;
+background-size: 100% 100% ;
+background-repeat: no-repeat;
+background-origin: content-box;
+
+}
+#ortaYazi{
+margin-top: 150px;
+}
+#rightt , #leftt{
+background: none;
+border: none;
+color: #F7F5F2;
+fill: #F7F5F2;
+
+}
+#rightt{
+float: right;
+
+
+}
+#leftt{
+float: left;
+}
+.buttonlar{
+background: #05AF3C;
+height: 50px;
+border-radius: 5px;
+border: none;
+padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+.umumi{
+			width: 100%;
+			height: 450px;
+			/*background: yellow;*/
+			margin-top: 0px;
+			border-top: 1px solid grey;
+			/*border-bottom: 1px solid grey;*/
+		}
+		.ust{
+		width: 100%;
+		height: 95px;
+		/*background: grey;*/
+		line-height: 100px;
+		margin-top: 10px;
+		}
+			.pro{
+				color: black;
+				font-size: 20px;
+				text-decoration: none;
+				display: inline-block;
+				}
+			.pro:hover{
+				text-decoration: none;
+				color: black;
+			}
+
+			.pro1{
+				color: black;
+				font-size: 15px;
+				text-decoration: none;
+				float: right;
+			}
+			.pro1:hover{
+				text-decoration: none;
+				color: black
+			}
+		.alt{
+		width: 100%;
+		height: 245px;
+		}
+
+
+		.solHisse{
+		width: 49%;
+		height: 245px;
+		/*background: lightgrey;*/
+		display: inline-block;
+		float: left;
+	}
+	.img2{
+		widows: 450px;
+		height: 245px
+	}
+	.sagHisse{
+		width: 49%;
+		height: 245px;
+		/*background: brown;*/
+		float: right;
+		display: inline-block;
+		margin-top: -15px;
+		}
+
+
+
+		.sag{
+		width: 100%;
+		height: 390px;
+		/*background: pink;*/
+		padding: 20px 0 20px 0;
+	margin-top: 10px;
+
+		}
+		.ul2{
+			width: 100%;
+			height: 390px;
+			border-left: 1px solid grey;
+		text-decoration: none;
+		list-style-type: none;
+
+		}
+		li{
+			margin-bottom: 5px
+		}
+
+
+
+		/*sagdaki li-nin textleri bawladi */
+						.b1{
+								color:black;
+								text-decoration: none;
+
+							}
+							
+							.b1:hover{
+								color: #2ade73;
+								text-decoration: underline;
+								   
+							}
+							.b2{
+								color:black;
+								text-decoration: none;
+							}
+							.b2:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b3{
+								color:black;
+								text-decoration: none;
+							}
+								.b3:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b4{
+								color:black;
+								text-decoration: none;
+							}
+								.b4:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b5{
+								color:black;
+								text-decoration: none;
+							}
+								.b5:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b6{
+								color:black;
+								text-decoration: none;
+							}
+								.b6:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b7{
+								color:black;
+								text-decoration: none;
+							}
+								.b7:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b8{
+								color:black;
+								text-decoration: none;
+							}
+								.b8:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b9{
+								color:black;
+								text-decoration: none;
+							}
+								.b9:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b10{
+								color:black;
+								text-decoration: none;
+							}
+							.b10:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}	
+							.b11{
+								color:black;
+								text-decoration: none;
+							}
+							.b11:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b12{
+								color:black;
+								text-decoration: none;
+							}
+								.b12:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b13{
+								color:black;
+								text-decoration: none;
+							}
+								.b13:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b14{
+								color:black;
+								text-decoration: none;
+							}
+								.b14:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+							.b15{
+								color:black;
+								text-decoration: none;
+							}
+								.b15:hover{
+								color: #2ade73;
+								text-decoration: underline;
+							}
+
+
+
+							.active{
+								border-left: 3px solid #2ade73;
+								   margin-left: -20px;
+								   padding-left: 17px;
+							}

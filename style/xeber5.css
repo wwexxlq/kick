@@ -1,0 +1,270 @@
+html body {
+	margin:0;
+	padding:0; 
+	overflow-x:hidden;
+}
+
+.sagHisse{
+		width: 49%;
+		/*height: 245px;*/
+		/*background: brown;*/
+		float: right;
+		display: inline-block;
+		margin-top: -15px;
+		}
+
+
+
+		.sag{
+		width: 100%;
+		/*height: 390px;*/
+		/*background: pink;*/
+		padding: 20px 0 20px 0;
+	margin-top: 10px;
+
+		}
+		.ul2{
+			width: 100%;
+			/*height: 390px;*/
+			border-left: 1px solid grey;
+		text-decoration: none;
+		list-style-type: none;
+padding: 0px 0 20px 20px;
+		}
+		li{
+			margin-bottom: 5px
+		}
+
+
+
+		/*sagdaki li-nin textleri bawladi */
+					
+
+
+.b1 , .b2 ,.b3 ,.b4 ,.b5 , .b6 , 
+.b7 , .b8 , .b9 , .b10 ,
+.b11 , .b12 , .b13 , .b14 , .b15 {
+	cursor: pointer;
+	color:black;
+	text-decoration: none;
+
+	 
+   
+}
+
+.b1:hover, .b2:hover ,.b3:hover ,.b4:hover ,
+.b5:hover , .b6:hover , 
+.b7:hover , .b8:hover , .b9:hover , .b10:hover ,
+.b11:hover , .b12:hover , .b13:hover , .b14:hover
+ , .b15:hover{
+ 	color: #2ade73;
+	text-decoration: underline;
+	
+ } 
+
+.sss{
+	   
+     border-left: 3px solid green;
+    /* border-left: #795548; */
+    margin-left: -40px;
+    padding-left: 37px;
+}
+
+.sol{
+overflow: hidden;
+height: 350px;
+}	
+.sol a {
+color: #020621;
+float: left;
+}	
+.bir , .iki , .uc , .dord , .bes , .alti ,
+.yeddi , .sekkiz , .doqquz , .on , .on1 ,
+.on2 , .on3, .on4 , .on5 {
+height: 350px;
+margin-top: 60px;
+}
+.sol img {
+width:100%;
+}
+.Img{
+margin-top: 30px;
+}
+// .active{
+// 	border: 0 0 10px 0 solid green 
+// }
+.bir{
+transition: all 0.5s ;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.paddingTop{
+	padding-top: 10px
+}
+
+.colorGrey{
+	color: grey;
+	font-weight: bold;
+}
+.colorGrey:hover{
+	color: black;
+	text-decoration: none;
+}
+
+.colorWhite{
+	color: white;
+	font-weight: bold;
+}
+.colorGrey:hover{
+	color: black
+}	
+
+
+.marginTop1{
+	margin-top: 10px
+}
+.marginTop2{
+	margin-top: 5px
+}
+
+/*tools end*/
+
+
+.mamedos{
+	width: 100%;
+	height: 204px;
+	/*background: red;*/
+	margin-top: 30px
+}
+.birnciSetr{
+width: 100%;
+height: 25px;
+/*background: grey;*/
+color: black;
+font-weight: bold;
+font-size: 22px;
+}
+.ikinciSetr{
+width: 100%;
+height: 28px;
+/*background: lightgrey;*/
+color: black;
+}
+.ucuncuSetr{
+width: 100%;
+height: 48px;
+/*background: grey;*/
+color: black;
+font-size: 18px;
+line-height: 22px
+
+}
+
+
+
+
+.ucluk{
+width: 100%;
+height: 35px;
+/*background: lightgrey;*/
+
+}
+
+		.goy{
+			background: #586BE9;
+			padding: 5px;
+			border-radius: 20px;
+			height: 30px;
+			color: white
+		}
+		.goy:hover{
+			background: #2752ff;
+		}
+
+
+
+
+
+
+		.axirinciDiv{
+			width: 100%;
+			/*background: brown;*/
+			height: 61px;
+			
+		}
+		.zaqruskaSetri{
+			width: 100%;
+			height: 10px;
+			background: #F1EEEA	;
+			border-radius: 20px;
+			overflow: hidden;
+		}
+		.zaqruzka{
+			width: 70%;
+			height: 10px;
+			background:#2BDE73;
+			border-radius: 20px;
+		}
+
+		.sonDordluk{
+			width: 100%;
+			height: 43px;
+			/*background: pink*/
+		}
+
+		.sonDordluk > div {
+
+			width: 100%;
+			height: 43px;
+			/*background: yellow;*/
+			margin-right: 20px;
+			display: inline-block;
+		}
+
+	.percent{
+		padding-top: 3px
+	}
+
+
+
+		.ff{
+	color: #020621;
+    font-weight: bold;
+    margin-right: 28px
+	}
+	.dd{
+	margin-right: 10px;
+	}
+	.gg{
+	color: #020621;
+    font-weight: bold;
+	margin-right: 16px;
+	}
